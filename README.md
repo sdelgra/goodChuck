@@ -36,7 +36,6 @@
    git clone https://github.com/your-username/Chuck-Be-Good.git
    cd Chuck-Be-Good
 2. Install Dependencies 
-   pip install Flask firebase-admin boto3
 3. Configure Firebase
 4. Configure AWS S3
 5. Run the application
